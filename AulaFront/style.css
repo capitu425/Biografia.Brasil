@@ -1,0 +1,47 @@
+body{
+    padding: 20;
+}
+h1  {
+   color: rgb(0, 0, 0);
+   
+}
+
+#turing{
+    width: 100%;
+}
+
+
+header{
+    background-color: #fef39c;
+    font-size: 50px;
+    padding: 5%;
+    border-radius: 20px;
+ }
+
+    main{
+    background-color: #eafed3;
+        font-size: 16px;
+        padding: 1%;
+        border-radius: 15px;
+        margin: 2%;
+    }
+
+    footer{
+        font-size: 25px;
+        padding: 1%;
+        border-radius: 15px;
+        margin: 2%;
+    }
+
+    .container {
+        display: inline-grid;
+        grid-template-columns: 400px 300px;
+        align-items: center
+       
+    }
+
+   
+      
+
+ 
+ 
